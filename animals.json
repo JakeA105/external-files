@@ -2,51 +2,52 @@
 {
         "id" : 1,
         "name" : "Pig",
-        "pic" : "https://jakea105.github.io/pig.jpg"
+        "pic" : "https://jakea105.github.io/external-files/pig.jpg"
     },
     {
         "id" : 2,
         "name" : "Cow",
-        "pic" : "https://jakea105.github.io/cow.jpg"
+        "pic" : "https://jakea105.github.io/external-files/cow.jpg"
     },
     {
         "id" : 3,
         "name" : "Deer",
-        "pic" : "https://jakea105.github.io/deer.jpg"
+        "pic" : "https://jakea105.github.io/external-files/deer.jpg"
     },
     {
         "id" : 4,
         "name" : "Owl",
-        "pic" : "https://jakea105.github.io/owl.jpg"
+        "pic" : "https://jakea105.github.io/external-files/owl.jpg"
     },
     {
         "id" : 5,
         "name" : "Badger",
-        "pic" : "https://jakea105.github.io/badger.jpg"
+        "pic" : "https://jakea105.github.io/external-files/badger.jpg"
     },
     {
         "id" : 6,
         "name" : "Hedgehog",
-        "pic" : "https://jakea105.github.io/hedgehog.jpg"
+        "pic" : "https://jakea105.github.io/external-files/hedgehog.jpg"
     },
     {
         "id" : 7,
         "name" : "Mouse",
-        "pic" : "https://jakea105.github.io/mouse.jpg"
+        "pic" : "https://jakea105.github.io/external-files/mouse.jpg"
     },
     {
         "id" : 8,
         "name" : "Seal",
-        "pic" : "https://jakea105.github.io/seal.jpg"
+        "pic" : "https://jakea105.github.io/external-files/seal.jpg"
     },
     {
         "id" : 9,
         "name" : "Wildcat",
-        "pic" : "https://jakea105.github.io/wildcat.jpg"
+        "pic" : "https://jakea105.github.io/external-files/wildcat.jpg"
     },
     {
         "id" : 10,
         "name" : "Fox",
-        "pic" : "https://jakea105.github.io/fox.jpg"
+        "pic" : "https://jakea105.github.io/external-files/fox.jpg"
     }
 ]
+
