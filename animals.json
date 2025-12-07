@@ -1,0 +1,54 @@
+{
+    "animals" : [
+    {
+        "id" : 1,
+        "name" : "Pig",
+        "pic" : "https://jakea105.github.io/pig.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Cow",
+        "pic" : "https://jakea105.github.io/cow.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Deer",
+        "pic" : "https://jakea105.github.io/deer.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Owl",
+        "pic" : "https://jakea105.github.io/owl.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Badger",
+        "pic" : "https://jakea105.github.io/badger.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Hedgehog",
+        "pic" : "https://jakea105.github.io/hedgehog.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Mouse",
+        "pic" : "https://jakea105.github.io/mouse.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "Seal",
+        "pic" : "https://jakea105.github.io/seal.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : "Wildcat",
+        "pic" : "https://jakea105.github.io/wildcat.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "Fox",
+        "pic" : "https://jakea105.github.io/fox.jpg"
+    }
+    ]
+}
