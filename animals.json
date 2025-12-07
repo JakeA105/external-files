@@ -1,6 +1,4 @@
 {
-    "animals" : [
-    {
         "id" : 1,
         "name" : "Pig",
         "pic" : "https://jakea105.github.io/pig.jpg"
@@ -50,5 +48,3 @@
         "name" : "Fox",
         "pic" : "https://jakea105.github.io/fox.jpg"
     }
-    ]
-}
