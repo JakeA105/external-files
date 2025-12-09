@@ -1,72 +1,45 @@
 [
 {
         "id" : 1,
-        "name" : "Pig",
-        "pic" : "https://jakea105.github.io/external-files/pig.jpg",
-        "lifespan" : "15-20 years",
-        "diet" : "omnivore"
+        "name" : "Dog Food",
+        "pic" : "https://jakea105.github.io/external-files/dogfood.png",
+        "price" : "£19.99",
+        "desc": "High quality, nutrient rich food for your dog"
     },
     {
         "id" : 2,
-        "name" : "Cow",
-        "pic" : "https://jakea105.github.io/external-files/cow.jpg",
-        "lifespan" : "15-20 years",
-        "diet" : "herbivore"
+        "name" : "Cat food",
+        "pic" : "https://jakea105.github.io/external-files/catfood.jpg",
+        "price" : "£14.99",
+        "desc": "High quality, nutrient rich food for your cat"
     },
     {
         "id" : 3,
-        "name" : "Deer",
-        "pic" : "https://jakea105.github.io/external-files/deer.jpg",
-        "lifespan" : "5-10 years",
-        "diet" : "herbivore"
+        "name" : "Tennis Ball",
+        "pic" : "https://jakea105.github.io/external-files/tennisball.jpg",
+        "price" : "£1.50",
+        "desc" : "A tennis ball perfecty for your dog to fetch"
     },
     {
         "id" : 4,
-        "name" : "Owl",
-        "pic" : "https://jakea105.github.io/external-files/owl.jpg",
-        "lifespan" : "1-5 years",
-        "diet" : "carnivore"
+        "name" : "Small Animal Food",
+        "pic" : "https://jakea105.github.io/external-files/smallanimalfood.png",
+        "price" : "£4.99",
+        "desc" : "Food for small animals such as hamsters, gerbils, guinea pigs and rabbits"
     },
     {
         "id" : 5,
-        "name" : "Badger",
-        "pic" : "https://jakea105.github.io/external-files/badger.jpg",
-        "lifespan" : "5-8 years",
-        "diet" : "omnivore"
+        "name" : "Cat flap",
+        "pic" : "https://jakea105.github.io/external-files/catflap.png",
+        "price" : "£21.89",
+        "desc" : "A perfect entrance for your cat to enter and leave the house"
     },
     {
         "id" : 6,
-        "name" : "Hedgehog",
-        "pic" : "https://jakea105.github.io/external-files/hedgehog.jpg",
-        "lifespan" : "2-7 years",
-        "diet" : "omnivore"
-    },
-    {
-        "id" : 7,
-        "name" : "Mouse",
-        "pic" : "https://jakea105.github.io/external-files/mouse.jpg",
-        "lifespan" : "1-3 years",
-        "diet" : "omnivore"
-    },
-    {
-        "id" : 8,
-        "name" : "Seal",
-        "pic" : "https://jakea105.github.io/external-files/seal.jpg",
-        "lifespan" : "20-40 years",
-        "diet" : "carnivore"
-    },
-    {
-        "id" : 9,
-        "name" : "Wildcat",
-        "pic" : "https://jakea105.github.io/external-files/wildcat.jpg",
-        "lifespan" : "7-12 years",
-        "diet" : "carnivore"
-    },
-    {
-        "id" : 10,
-        "name" : "Fox",
-        "pic" : "https://jakea105.github.io/external-files/fox.jpg",
-        "lifespan" : "2-4 years",
-        "diet" : "omnivore"
+        "name" : "Pigs Ear",
+        "pic" : "https://jakea105.github.io/external-files/pigear.jpg",
+        "price" : "£2.00",
+        "desc" : "A nice treat for a dog"
     }
+    
 ]
