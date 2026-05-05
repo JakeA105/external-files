@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "day": "Monday",
+    "lectures": ["Software Development", "Mobile App Development"]
+  },
+  {
+    "id": 2,
+    "day": "Tuesday",
+    "lectures": ["Mobile App Development"]
+  },
+  {
+    "id": 3,
+    "day": "Wednesday",
+    "lectures": ["Software Development"]
+  },
+  {
+    "id": 4,
+    "day": "Thursday",
+    "lectures": [""]
+  },
+  {
+    "id": 5,
+    "day": "Friday",
+    "lectures": ["Software Development, Mobile App Development"]
+  },
+  {
+    "id": 6,
+    "day": "Saturday",
+    "lectures": []
+  },
+  {
+    "id": 7,
+    "day": "Sunday",
+    "lectures": []
+  }
+]
